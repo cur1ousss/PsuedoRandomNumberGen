@@ -262,3 +262,5 @@ cout<<"\nExiting the Game GOODBYE!!!!!!!!!!!!!";
 cout<<"\n\n";
 return 0;
 }
+
+//threshold set is whats the limitation of beings
